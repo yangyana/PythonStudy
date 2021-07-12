@@ -28,7 +28,8 @@ for item in a:
 for date in item:
     print(date)
 
-str_1='param:{"phone":"18329960933","pwd":"123456"}@url"https://www.liaoxuefeng.com/wiki/1016959663602400/1017451447842528\n"'
-print(str_1)
-list_1=str_1.split("\n")
+
+
+
+
 
