@@ -46,5 +46,4 @@ while True:
         break
 print(sum)
 
-
 # ==：判断两边的条件是否相等
